@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=m\ y
+comment0.target=Date(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Date\r\n\ @param\ m\ -\ the\ month\ part\ of\ the\ date\ (1\ -\ 12).\r\n@param\ y\ -\ the\ year\ part\ of\ the\ date.
+comment1.params=
+comment1.target=Date()
+comment1.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ Date\ set\ the\ constructed\ date\ to\ 1/01/1970.\ \ This\ is\ a\ default\ setting\r\n\ and\ is\ obviously\ "in\ the\ past"\r\n
+comment2.params=m\ y
+comment2.target=void\ setDate(java.lang.String,\ int)
+comment2.text=\r\n\ method\ to\ set\ the\ Date\r\n\ @param\ d\ -\ the\ day\ part\ of\ the\ date\ (1\ -\ 31,\ depending\ on\ the\ month).\r\n\ @param\ m\ -\ the\ month\ part\ of\ the\ date\ (1\ -\ 12).\r\n\ @param\ y\ -\ the\ year\ part\ of\ the\ date.\r\nNote\:\ No\ error\ checking\ in\ this\ version\ \!
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n@return\ the\ date\ as\ a\ String,\ format\ "09/11/2002"
+comment4.params=i
+comment4.target=java.lang.String\ as2Digits(int)
+comment4.text=Internal\ method\ to\ add\ a\ leading\ zero\ if\ necessary.
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6
